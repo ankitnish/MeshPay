@@ -1,10 +1,21 @@
-import { StrictMode } from 'react'
-import { createRoot } from 'react-dom/client'
-import './index.css'
-import App from './App.jsx'
+import { StrictMode } from "react";
+import { createRoot } from "react-dom/client";
+import { Toaster } from "react-hot-toast";
 
-createRoot(document.getElementById('root')).render(
+import App from "./App";
+import "./index.css";
+
+import { UserProvider } from "./context/UserContext";
+
+createRoot(document.getElementById("root")).render(
   <StrictMode>
-    <App />
-  </StrictMode>,
-)
+    <UserProvider>
+      <Toaster
+        position="top-right"
+        reverseOrder={false}
+      />
+
+      <App />
+    </UserProvider>
+  </StrictMode>
+);
