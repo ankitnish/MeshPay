@@ -1,5 +1,5 @@
 # 💳 MeshPay
-<img width="1536" height="780" alt="image" src="https://github.com/user-attachments/assets/5ded6f85-4c72-4275-b1fc-7b4e67d6a1f4" />
+<img width="1518" height="724" alt="image" src="https://github.com/user-attachments/assets/1808691e-9f22-47f8-ae7d-f5daa4a2f0e6" />
 
 
 ### Secure Peer-to-Peer Payment Platform
@@ -14,11 +14,11 @@ MeshPay is a **production-ready MERN Stack** digital wallet application that ena
 
 ## 🚀 Live Demo
 
-🌐 **Frontend:** https://mesh-pay-six.vercel.app
+🌐 **Frontend:** https://mesh-pay-six.vercel.app/
 
-⚙️ **Backend:** https://your-render-url.onrender.com
+⚙️ **Backend:** https://meshpay-hff9.onrender.com
 
-📂 **GitHub:** https://github.com/yourusername/MeshPay
+📂 **GitHub:** https://github.com/ankitnish/MeshPay
 
 ---
 
@@ -145,7 +145,7 @@ VITE_API_URL=http://localhost:5000/api
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/MeshPay.git
+git clone https://github.com/ankitnish/MeshPay
 ```
 
 Install backend dependencies
@@ -163,30 +163,6 @@ cd client
 npm install
 npm run dev
 ```
-
----
-
-# 📷 Screenshots
-
-### Landing Page
-
-<img src="screenshots/landing.png">
-
-### Login
-
-<img src="screenshots/login.png">
-
-### Dashboard
-
-<img src="screenshots/dashboard.png">
-
-### Send Money
-
-<img src="screenshots/send-money.png">
-
-### Transaction History
-
-<img src="screenshots/history.png">
 
 ---
 
@@ -231,9 +207,9 @@ npm run dev
 
 📧 ankitn575@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/your-linkedin
+💼 LinkedIn: https://www.linkedin.com/in/ankit-nishad-053296225/
 
-🐙 GitHub: https://github.com/yourusername
+🐙 GitHub: https://github.com/ankitnish
 
 ---
 
