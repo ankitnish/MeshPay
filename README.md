@@ -1,7 +1,4 @@
 # 💳 MeshPay
-<img width="1518" height="724" alt="image" src="https://github.com/user-attachments/assets/1808691e-9f22-47f8-ae7d-f5daa4a2f0e6" />
-
-
 ### Secure Peer-to-Peer Payment Platform
 
 MeshPay is a **production-ready MERN Stack** digital wallet application that enables secure peer-to-peer money transfers through **JWT-based authentication**, **RESTful APIs**, and **MongoDB Atlas**. The application is deployed on the cloud using **Vercel** and **Render**, demonstrating modern full-stack development and deployment practices.
